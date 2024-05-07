@@ -60,6 +60,10 @@ h3 {
 }
 
 @media only screen and (max-width: 600px) {
+    .box {
+        width: 90%;
+    }
+
     .btn {
         width: 150px;
         height: 40px;
